@@ -1,7 +1,20 @@
-### Hi there 👋
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+## About me
+
+I'm shibin kp. A  front-end designer. An  diploma computer engineering student at gptc kalamaassery :heart:.
+
+
 
 <!--
-**Shibin256/Shibin256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
