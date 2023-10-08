@@ -27,9 +27,7 @@ jobs:
 
     # Generates the snake  
       - uses: Platane/snk@master
-        id: snake-g
-
-if
+        id: snake-gif
         with:
           github_user_name: shibin256
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
@@ -54,4 +52,3 @@ if
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
