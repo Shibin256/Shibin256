@@ -19,7 +19,7 @@
 
 ## About me
 
-Hey everyone i am SHIBIN SHAJAN KP, a computer engineering student at gptc kalamassery. I am python-developer, Java-developer and also a front-end web Designer:heart:. <br> For me 'IT' is the best option for my career :atom:. <br> And also i love football ⚽, coding 💻, watching series 🪢, anime ♨️. <br> When ever i get bored, i am going to start coding and enjoye it. Also whenever i get dipressed i start watching anime. 
+Hey everyone i am SHIBIN SHAJAN KP, a computer engineering student at gptc kalamassery. I am python-developer, Java-developer and also a front-end web Designer🫀:. <br> For me 'IT' is the best option for my career :atom:. <br> And also i love football ⚽, coding 💻, learning new Technologies 🤖. <br> When ever i get bored, i am going to start coding and enjoye it. 
 
 <br>
 
