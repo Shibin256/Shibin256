@@ -59,7 +59,4 @@ Hey everyone i am SHIBIN SHAJAN KP, a computer engineering student at gptc kalam
 </p><br>
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shibin256/count.svg" />
-</p>
+
