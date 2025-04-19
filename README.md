@@ -52,10 +52,10 @@ Hey everyone i am SHIBIN SHAJAN KP, a computer engineering student at gptc kalam
 
 
 <br><p align="center">
-<a href="https://twitter.com/shibin_kp1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shibin_kp1012" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shibin kp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibin kp" height="30" width="40" /></a>
 <a href="https://fb.com/shibin shajan kp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shibin shajan kp" height="30" width="40" /></a>
-<a href="https://instagram.com/shxbi.eee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shxbi.eee" height="30" width="40" /></a>
+<a href="https://instagram.com/shiibi.ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiibi.ee" height="30" width="40" /></a>
 </p><br>
 
 
