@@ -1,60 +1,37 @@
-# Hi there, I'm Shibin Shajan KP 👋 🚀
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Banner" width="100%">
-</div>
+# Shibin Shajan KP
+**MERN Stack Developer | Brototype**
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
+I'm a Full-Stack Engineer focused on building scalable web applications with the **MERN** stack. My background is in Computer Engineering, and I'm currently leveling up my skills at **Brototype**.
 
-I am a passionate **MERN Stack Developer** currently honing my craft at **Brototype**. I've transitioned from a Computer Engineering background into building scalable, high-performance web applications. For me, coding isn't just a career path—it's my favorite way to spend time when I'm bored (and even when I'm not!).
-
-- 🔭 I’m currently working on full-stack projects using **React, Node.js, and MongoDB**.
-- 🌱 I’m constantly exploring **Next.js, System Design, and Database Optimization**.
-- ⚽ When I'm not debugging, you'll find me on the football pitch.
-- 💬 Ask me about **JavaScript, Python, or Web Design**.
+* 🔭 **Focus:** Building performant Node.js backends and React frontends.
+* 📚 **Reading:** Currently exploring tech literature and personal growth books.
+* ⚡ **Motto:** Turning complex problems into elegant, functional code.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Core Stack
+- **Frontend:** React, Redux, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, PostgreSQL
+- **Tools:** AWS, Docker, Git
 
+---
+
+### 📊 GitHub Insights
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://github-readme-stats.vercel.app/api?username=shibin256&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=7e7e7e" height="150" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibin256&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=7e7e7e" height="150" alt="Languages" />
 </p>
 
 ---
 
-### 📊 My GitHub Journey
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shibin256&show_icons=true&theme=tokyonight&hide_border=true" alt="Shibin's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibin256&theme=tokyonight&hide_border=true" alt="Shibin's Streak" />
-</div>
+### 📫 Reach Out
+- **Email:** [shibinkp1012@gmail.com](mailto:shibinkp1012@gmail.com)
+- **LinkedIn:** [shibin-kp](https://linkedin.com/in/shibin-kp)
+- **Instagram:** [@shiibi.ee](https://instagram.com/shiibi.ee)
 
 ---
-
-### 📫 Connect with me
-
-<p align="center">
-  <a href="mailto:shibinkp1012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/shibin-kp"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/shiibi.ee"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <b>Let's build something amazing!</b>
-</p>
+<p align="center"><i>"Code is poetry written in logic."</i></p>
