@@ -4,27 +4,19 @@
 ---
 
 ### 🚀 About Me
-I'm a Full-Stack Engineer focused on building scalable web applications with the **MERN** stack. My background is in Computer Engineering, and I'm currently leveling up my skills at **Brototype**.
+I'm a Full-Stack Engineer focused on building scalable web applications. Currently leveling up my skills at **Brototype** with a deep dive into the **MERN** stack.
 
-* 🔭 **Focus:** Building performant Node.js backends and React frontends.
-* 📚 **Reading:** Currently exploring tech literature and personal growth books.
+* 🔭 **Focus:** Architecting Node.js backends and React frontends.
+* 📚 **Interests:** Reading tech literature and exploring system design.
 * ⚡ **Motto:** Turning complex problems into elegant, functional code.
 
 ---
 
 ### 🛠️ Core Stack
 - **Frontend:** React, Redux, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, PostgreSQL
+- **Backend:** Node.js, Express.js, Python
+- **Database:** MongoDB, MySQL
 - **Tools:** AWS, Docker, Git
-
----
-
-### 📊 GitHub Insights
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=shibin256&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=7e7e7e" height="150" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibin256&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=7e7e7e" height="150" alt="Languages" />
-</p>
 
 ---
 
